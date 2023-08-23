@@ -26,6 +26,7 @@ void loop(void)
    {
       Serial.println("And Now I'm running in Normal Mode. after wake up.");      
       //led_toggle(MY_LED);
+      //test
       delay(1000);
    }
 
